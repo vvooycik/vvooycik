@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Aspiring Java Developer, student at PJAIT in Warsaw. 
-Currently learning Spring 
+Aspiring <b>Java Developer</b>, student at PJAIT in Warsaw. 
+Currently learning <b>Spring</b> 
 
-📲 tt: @Wooycik
+📲 tt: <a href="https://twitter.com/Wooycik">@Wooycik</a>
 <!--
 **vvooycik/vvooycik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
