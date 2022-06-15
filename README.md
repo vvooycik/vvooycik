@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Aspiring <b>Java Developer</b>, student at PJAIT in Warsaw. 
-Currently learning <b>Spring</b> 
+Salesforce Developer at Accenture, student at PJAIT in Warsaw. 
 
 📲 tt: <a href="https://twitter.com/Wooycik">@Wooycik</a>
 <!--
